@@ -33,7 +33,7 @@
     "prettier": "^1.17.0",
     "prettier-config-fisker": "^1.0.0",
     "rimraf": "^2.6.3",
-    "rollup": "^1.10.0"
+    "rollup": "^1.10.1"
   },
   "peerDependencies": {
     "prettier": "*"
