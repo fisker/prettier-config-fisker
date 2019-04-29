@@ -1,3 +1,5 @@
+# use `@fisker/prettier-config` instead [https://github.com/fisker/shared-configs/tree/master/packages/prettier-config](https://github.com/fisker/shared-configs/tree/master/packages/prettier-config)
+
 # prettier-config-fisker
 
 > fisker's Shareable prettier Configuration
